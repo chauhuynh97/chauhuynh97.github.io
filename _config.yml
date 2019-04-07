@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Matheny / Personal"
+title                    : "Michael Matheny"
 title_separator          : "-"
 name                     : &name "Michael Matheny"
 description              : &description "personal description"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Michael Matheny"
-  avatar           : "bio-pic.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "bio-photo.jpg"
+  bio              : "PhD student at the University of Utah researching spatial scan statistics."
   location         : "Salt Lake City, Utah"
   employer         : "University of Utah"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=4fv14WQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
