@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computing: Data Science, University of Utah, 2014-2019 (expected August)
+* B.S. in Computer Science, Minor Mathematics, University of Delaware, 2010-2014
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 to Present: Research Assistant for Dr. Jeff Phillips.
+  * Research on Spatial Scan Statistics and related problems.
+* Fall 2014: Research Assistant 
+  * Worked on a project related to AMGX and the Uintah framework.
+* January 2016 to December 2016: Teaching Assistant
+  * Graduate Level Classes in Advanced Algorithms and Data Mining.
+* Summer 2015: Graduate Research at Sandia National Laboratory
+  * Worked on various government projects related to data mining problems.
+* Summer 2013: Graduate Research at Oak Ridge National Laboratory
+  * Integrated the ADIOS I/O library into an existing application, QMCPack, to improve
+write/read performance on Titan and other super computers.
+* Summer 2011 to May 2014: Research Assistant for Dr. Michela Taufer.
+  * Research into performance tuning and modeling of the ADIOS I/O library on
+systems with heavy filesystem contention.
+  * Wrote software that integrated learning games into the pre-existing volunteer
+computing project, Docking@Home.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, C/C++, Matlab, Java, Haskell
+* Parallel Programming: OpenCL, Cuda, MPI, OpenMP
 
 Publications
 ======
@@ -54,6 +57,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
