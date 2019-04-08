@@ -7,4 +7,4 @@ collection: projects
 
 This is based on the algorithm from this [https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf](paper). 
 
-[https://github.com/michaelmathen/](Github link)
+[Github link](https://github.com/michaelmathen/)

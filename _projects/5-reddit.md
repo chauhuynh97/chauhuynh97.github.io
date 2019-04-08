@@ -6,4 +6,4 @@ collection: projects
 ---
 
 
-[https://github.com/michaelmathen/DataMiningReddit](Github link)
+[Github link](https://github.com/michaelmathen/DataMiningReddit)

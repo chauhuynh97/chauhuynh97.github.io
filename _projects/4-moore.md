@@ -21,4 +21,4 @@ degree graph and would be unoticable with the 7 or 3 as they are already extreme
 You will probably have to change the CC variable in the makefile to fit your system and you will need a c++ compiler that is 
 modern enough to support C++11 features. 
 
-[https://github.com/michaelmathen/](Github link)
+[Github link](https://github.com/michaelmathen/)
