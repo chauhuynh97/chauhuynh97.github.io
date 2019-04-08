@@ -4,13 +4,8 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+This is a list of links to slides for conference talks.
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+* [https://michaelmathen.github.io/files/ESA_Slides.pdf](Practical Low-Dimensional Halfspace Range Space Sampling)
+* [https://michaelmathen.github.io/files/ISAAC_slides.pdf](Approximate Statistical Discrepancy)
+* [https://michaelmathen.github.io/files/Slides.pdf](Scalable Spatial Scan Statistics)
