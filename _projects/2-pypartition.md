@@ -1,6 +1,7 @@
 ---
 title: "pypartition"
 excerpt: "This is the code used for the paper Practical Low-Dimensional Halfspace Range Space Sampling. <br/><img src='/images/trap_cutting.png'>"
+permalink: /projects/pypartition
 collection: projects
 ---
 Cuttings, partition trees, Akcan sampling, and ham sandwich tree codes for generating small samples for halfspaces. This is code from the paper "Practical Low Dimensional HalfSpace Range Space Sampling". It can be used to generate partition trees like the ones from Chan's "Optimal Partition Trees". The main file is partitions.py. 

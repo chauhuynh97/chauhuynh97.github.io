@@ -1,6 +1,7 @@
 ---
 title: "Moore"
 excerpt: "Does a combinatorial search to find Moore Graphs that satisfy the Hoffman–Singleton theorem.  <br/><img src='/images/petersen_graph.png'>"
+permalink: /projects/moore
 collection: projects
 ---
 This project attempts to find all of the Moore Graphs with girth 5. 
