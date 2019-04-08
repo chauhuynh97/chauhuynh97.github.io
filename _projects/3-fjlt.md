@@ -5,6 +5,6 @@ permalink: /projects/fjlt
 collection: projects
 ---
 
-This is based on the algorithm from this [https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf](paper). 
+This is based on the algorithm from this [paper](https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf). 
 
 [Github link](https://github.com/michaelmathen/)
