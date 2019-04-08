@@ -26,7 +26,6 @@ Chan partitioning and Matousek's algorithm both rely on computing something call
             <div class="caption text-center">
             <h6>Polygonal Cutting</h6>
             </div>
-        </a>
    </div>
   
     <div class="col-md-3 col-xs-12">
@@ -34,7 +33,6 @@ Chan partitioning and Matousek's algorithm both rely on computing something call
             <div class="caption text-center">
             <h6>Trapezoidal Cutting</h6>
             </div>
-  </a>
     </div>
   </div>
 </div>
