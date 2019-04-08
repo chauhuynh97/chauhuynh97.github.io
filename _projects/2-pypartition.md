@@ -22,14 +22,14 @@ Chan partitioning and Matousek's algorithm both rely on computing something call
     <div class="row equal-height">
     <div class="col-md-3 col-xs-12">
 
-    <img src="https://michaelmathen.gitub.io/images/poly.png" class="img-responsive center-block">
+    <img src="https://michaelmathen.github.io/images/poly.png" class="img-responsive center-block">
             <div class="caption text-center">
             <h6>Polygonal Cutting</h6>
             </div>
    </div>
   
     <div class="col-md-3 col-xs-12">
-            <img src="https://michaelmathen.gitub.io/images/trap_cutting.png" class="img-responsive center-block">
+            <img src="https://michaelmathen.github.io/images/trap_cutting.png" class="img-responsive center-block">
             <div class="caption text-center">
             <h6>Trapezoidal Cutting</h6>
             </div>
