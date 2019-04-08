@@ -17,7 +17,7 @@ Unlike all other Moore graphs, Higman proved that the unknown Moore graph cannot
 
 This code should be pretty easy to compile as there are no requirements on any libraries outside of the standard right now.
 I was going to accelerate this with cuda and omp, but a factor of 100 increase in speed wouldn't really help you with the 57
-degree graph and would be unoticable with the 7 or 3 as they are already extremely fast. 
+degree graph and would be unnoticeable with the 7 or 3 as they are already extremely fast. 
 You will probably have to change the CC variable in the makefile to fit your system and you will need a c++ compiler that is 
 modern enough to support C++11 features. 
 

@@ -6,7 +6,7 @@ redirect_from:
   - /Funny
 ---
 
-Salt Lake City is a great place to live if you enjoy the outdoors. I try to get outside at least a couple of times a week even if it is just for a hike or some climbing. Here are a couple of pictures to highlight some of these escapades.
+Salt Lake City is a great place to live if you enjoy the outdoors. I try to get outside at least a couple of times a week even if it is just for a hike or some climbing. Here are a few pictures to highlight some of these escapades.
 ## Rock Climbing
 ![Climbing in the Wasatch](https://michaelmathen.github.io/images/top_rope.jpg)
 
