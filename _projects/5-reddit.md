@@ -1,0 +1,8 @@
+---
+title: "Reddit Comment Clustering"
+excerpt: "Computes clusters of subreddits using various metrics and various clustering schemes  <br/><img src='/images/fish_cluster.png'>"
+collection: projects
+---
+
+
+[https://github.com/michaelmathen/DataMiningReddit](Github link)
