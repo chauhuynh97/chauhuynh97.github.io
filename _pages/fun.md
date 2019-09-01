@@ -6,6 +6,7 @@ redirect_from:
   - /Funny
 ---
 
+# For Fun
 Salt Lake City is a great place to live if you enjoy the outdoors. I try to get outside at least a couple of times a week even if it is just for a hike or some climbing. Here are a few pictures to highlight some of these escapades.
 ## Rock Climbing
 ![Climbing in the Wasatch](https://michaelmathen.github.io/images/top_rope.jpg)
@@ -22,5 +23,9 @@ Salt Lake City is a great place to live if you enjoy the outdoors. I try to get 
 ![Caving](https://michaelmathen.github.io/images/caving.jpg)
 
 ![Iceland](https://michaelmathen.github.io/images/iceland.jpg)
+
+# Family Stuff
+Most of my family live around Columbus in Ohio. My dad builds furniture, welds, and works on random projects. My mom teaches an [AP Statistics class](https://www.aphomeschoolers.com/cgi-bin/choose.pl?class=statistics) and quilts for fun. My brother just recently graduated from Ohio State University and is working for Chase bank on fraud detection and does [photography](http://Imagesbymm.com) for fun and profit on the side. 
+
 
 
