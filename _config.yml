@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Matheny/About"
+title                    : "Châu/About"
 title_separator          : "-"
-name                     : &name "Michael Matheny"
+name                     : &name "Châu Huynh"
 description              : &description "personal description"
-url                      : https://michaelmathen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chauhuynh97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "michaelmathen/michaelmathen.github.io"
+repository               : "chauhuynh97/chauhuynh97.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Matheny"
+  name             : "Châu Huynh"
   avatar           : "bio-photo-2.jpg"
-  bio              : "PhD student at the University of Utah researching spatial scan statistics."
-  location         : "Salt Lake City, Utah"
-  employer         : "University of Utah"
+  bio              : "Masters student at the University of Washington in Electrical Engineering passionate about robotics."
+  location         : "Seattle, Washington"
+  employer         : "University of Washington"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=4fv14WQAAAAJ"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "michaelmathen"
+  github           : "chauhuynh97"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chau-huynh/"
   orcid            : 
   pinterest        :
   soundcloud       :
