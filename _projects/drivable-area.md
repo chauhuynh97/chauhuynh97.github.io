@@ -11,6 +11,6 @@ Image segmentation is a critical part of autonomous vehicle perception algorithm
 ![U-Net architecture](https://chauhuynh97.github.io/images/U-Net-architecture.png)
 
 ![Daytime example of input image, label image, and predicted output image](https://chauhuynh97.github.io/images/drivable-area-daytime-prediction.png)
-![Nighttime example of input image, label image, and predicted output image](https://chauhuynh97.github.io/images/drivable-area-nighttime-prediction.png)
 
+![Nighttime example of input image, label image, and predicted output image](https://chauhuynh97.github.io/images/drivable-area-nighttime-prediction.png)
 
