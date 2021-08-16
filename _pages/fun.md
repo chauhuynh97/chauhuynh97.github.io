@@ -6,7 +6,6 @@ redirect_from:
   - /Funny
 ---
 
-# For Fun
 
 ## Bouldering
 ![Bouldering](https://chauhuynh97.github.io/images/bouldering.png)
