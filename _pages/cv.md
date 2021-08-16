@@ -25,7 +25,7 @@ quality inspections on industrial and commercial items.
 
 Skills
 ======
-* Languages: C++, C#, Python, C, MATLAB, MySQL, SQLite, F#, VHDL, MIPS Assembly
+* Languages: Python, C++, C#, C, MATLAB, MySQL, SQLite, F#, VHDL, MIPS Assembly
 * Relevant coursework: Linear Algebra, Calc and Multivariable Calc, Probability and Statistics, Differential Equations, Data
 Structures, Computing Systems, Object-Oriented Development, Design and Analysis of Algorithms
 
@@ -54,7 +54,7 @@ Designed and constructed a pet monitoring system using a GSM/GPS module, a tempe
 ** Used the Raspberry Pi’s Camera Interface Software to create a video streaming service for the device.
 ** Utilized AWS IoT Core to send out tweet notifications when the temperature had reached a threshold specified by the user.
 ** Designed and implemented features into an IoT Button using AWS Lambda to provide easy accessibility.
-Embedded System: Autonomous Robot with Amazon Alexa, September 2017 – December 2017
+* Embedded System: Autonomous Robot with Amazon Alexa, September 2017 – December 2017
 ** Programmed, constructed, and tested an autonomous robot that could communicate through UART/SPI and navigate independently
 using a 32-bit PIC32 microcontroller.
 ** Implemented infrared sensors on the robot to detect and follow a desired pathway.
