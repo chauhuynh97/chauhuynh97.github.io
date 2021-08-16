@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Châu/About"
 title_separator          : "-"
-name                     : &name "Châu Huynh"
+name                     : &name "Châu Huỳnh"
 description              : &description "personal description"
 url                      : https://chauhuynh97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Châu Huynh"
-  avatar           : "bio-photo-2.jpg"
+  name             : "Châu Huỳnh"
+  avatar           : "profile-photo.jpg"
   bio              : "Masters student at the University of Washington in Electrical Engineering passionate about robotics."
   location         : "Seattle, Washington"
   employer         : "University of Washington"

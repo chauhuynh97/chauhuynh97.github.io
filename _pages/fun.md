@@ -8,23 +8,20 @@ redirect_from:
 
 # For Fun
 
-## Rock Climbing
-![Climbing in the Wasatch](https://michaelmathen.github.io/images/top_rope.jpg)
-
-![Bouldering in Triassic](https://michaelmathen.github.io/images/bouldering.jpg)
-
-## Skiing
-![Skiing in Jackson Hole](https://michaelmathen.github.io/images/jackson_hole.jpg)
+## Bouldering
+![Bouldering](https://chauhuynh97.github.io/images/bouldering.png)
 
 ## Hiking
-![Hiking in Glacier](https://michaelmathen.github.io/images/glacier.jpg)
+![Snowshoeing in Snoqualmie](https://chauhuynh97.github.io/images/snowshoes.jpg)
+![Slip and sliding in the Olympics](https://chauhuynh97.github.io/images/snowshoeing.jpg)
+![Hiking Spooky slot canyon in Utah](https://chauhuynh97.github.io/images/hiking-spooky.jpg)
 
-## Misc 
-![Caving](https://michaelmathen.github.io/images/caving.jpg)
-
-![Iceland](https://michaelmathen.github.io/images/iceland.jpg)
+## Backpacking
+![Backpacking in the Alpine Lakes Wilderness Area](https://chauhuynh97.github.io/images/backpacking.jpg)
 
 # Family Stuff
-Most of my family live around Columbus in Ohio. My dad builds furniture, welds, and works on random projects. My mom teaches an [AP Statistics class](https://www.aphomeschoolers.com/cgi-bin/choose.pl?class=statistics) and quilts for fun. My brother just recently graduated from Ohio State University and is working for Chase bank on fraud detection and does [photography](http://Imagesbymm.com) for fun and profit on the side. 
+My parents live in Ho Chi Minh City, Vietnam. My dad is an otorhinolaryngologist and likes to plant fruit trees. My mom helps out at my grandma's jewelry shop.
+
+In Seattle, I have my brother and 3 cousins that I often hangout with. My brother works at FedEx. My oldest cousin, Vy, is a chemistry and math teacher for high school students. Her middle sister, Linh is a CS student at Seattle University. Van, the youngest sister, is a freshman at University of Washington studying Architectural Design and Construction Management.
 
 
